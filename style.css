@@ -1,0 +1,17 @@
+.text {
+  font-size: 200%;
+}
+
+.title {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+#insert {
+  height: 45px;
+  font-size: 150%;
+}
+
+#button {
+  height: 50px;
+}
